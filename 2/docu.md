@@ -65,4 +65,6 @@ Adding up all the invalid IDs in this example produces 4174379265.
 
 What do you get if you add up all of the invalid IDs using these new rules?
 
-Answer:
+Your puzzle answer was **69564213293**
+
+Both parts of this puzzle are complete! They provide two gold stars: **
