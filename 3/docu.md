@@ -59,4 +59,6 @@ The total output joltage is now much larger: 987654321111 + 811111111119 + 43423
 
 What is the new total output joltage?
 
-Answer:
+Your puzzle answer was **171419245422055**
+
+Both parts of this puzzle are complete! They provide two gold stars: **
